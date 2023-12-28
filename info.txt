@@ -1,0 +1,18 @@
+Información de productos de Amazon
+
+- Url de resultado:  https://www.amazon.com.mx/s?k=Acer+Laptop+Nitro+Gaming&__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2J2IEFRHPQI5F&sprefix=acer+laptop+nitro+gaming%2Caps%2C207&ref=nb_sb_noss_1  
+- Producto: <div class="s-result-item">         
+- Nombre: <span class="a-size-small a-color-base a-text-normal">              
+- Precio:   <span class="a-price-whole">            
+- URL: <a class="a-link-normal s-faceout-link a-text-normal">            
+                        
+    Información de productos de mercadolibre
+
+- Url de resultado:     https://listado.mercadolibre.com.mx/acer-laptop-nitro-gaming#D[A:Acer%20Laptop%20Nitro%20Gaming]
+- Producto:  <span class="ui-search-item__brand-discoverability ui-search-item__group__element">           
+- Nombre: <h2 class="ui-search-item__title">           
+- Precio: <div class="ui-search-item__group__element ui-search-price__part-without-link">            
+- URL: <a class="ui-search-item__group__element ui-search-link__title-card ui-search-link">              
+
+
+
