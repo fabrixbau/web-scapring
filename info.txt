@@ -10,8 +10,8 @@ Información de productos de Amazon
 
 - Url de resultado:     https://listado.mercadolibre.com.mx/acer-laptop-nitro-gaming#D[A:Acer%20Laptop%20Nitro%20Gaming]
 - Producto:  <span class="ui-search-item__brand-discoverability ui-search-item__group__element">           
-- Nombre: <h2 class="ui-search-item__title">           
-- Precio: <div class="ui-search-item__group__element ui-search-price__part-without-link">            
+- Nombre: <li class="ui-search-layout__item">           
+- Precio: <span class="andes-money-amount ui-search-price__part ui-search-price__part--medium andes-money-amount--cents-superscript">            
 - URL: <a class="ui-search-item__group__element ui-search-link__title-card ui-search-link">              
 
 
